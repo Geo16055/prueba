@@ -1,0 +1,1 @@
+web: manage.py collectstatic && gunicorn proyectoUTDdjango
